@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Task Description: Buy groceries",
+        "priority": "Priority (high, medium, low): high",
+        "due_date": "Due Date (YYYY-MM-DD): 2024-07-20",
+        "completed": false
+    },
+    {
+        "description": "Task Description: Buy groceries",
+        "priority": "Priority (high, medium, low): high",
+        "due_date": "Due Date (YYYY-MM-DD): 2024-07-20",
+        "completed": false
+    },
+    {
+        "description": "Buy groceries",
+        "priority": "medium",
+        "due_date": "2024-07-20",
+        "completed": false
+    }
+]
